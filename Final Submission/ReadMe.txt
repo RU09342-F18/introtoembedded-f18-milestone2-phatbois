@@ -1,4 +1,4 @@
-Milestone 2: Thermistor Temperature Sensor 
+Milestone 2: Thermistor Temperature Sensor and Fan Control 
 Alex Marino and Cameron Bendzynski
 Embedded Systems Section 3
 Due by December 2, 2018
